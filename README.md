@@ -1,12 +1,11 @@
 # h5-base-project
-```
-📱 Mobile terminal base project
-🍭 Support Vue-v2.7.0
- 🎉 Support Less
- 🎨 theme with vant
- 🌍 Built-in i18n solution
 
-```
+<div>📱 Mobile terminal base project</div>
+🍭 Support Vue-v2.7.0
+🎉 Support Less
+🎨 theme with vant
+🌍 Built-in i18n solution
+
 ## Project setup
 ```
 npm install
